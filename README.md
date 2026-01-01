@@ -5,7 +5,6 @@ A basic **command-line calculator** written in **Python** that performs arithmet
 ---
 
 ## 🚀 Features
-
 - ➕ Addition  
 - ➖ Subtraction  
 - ✖ Multiplication  
